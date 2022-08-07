@@ -1,0 +1,23 @@
+1       b'Work' _       Work    nn      NN      1       _       _       _       _       _       work.n  Work    O
+2       b'Advances'     _       Advances        nns     NNS     1       _       _       _       _       _       _       _       O
+3       b'at'   _       at      in      IN      1       _       _       _       _       _       _       _       O
+4       b'Iranian'      _       Iranian jj      JJ      1       _       _       _       _       _       _       _       O
+5       b'Uranium'      _       Uranium NP      NNP     1       _       _       _       _       _       _       _       O
+6       b'Enrichment'   _       Enrichment      nn      NNP     1       _       _       _       _       _       _       _       O
+7       b'Site' _       Site    nn      NNP     1       _       _       _       _       _       _       _       O
+
+1       b'Work' _       Work    nn      NN      1       _       _       _       _       _       _       _       O
+2       b'Advances'     _       Advances        nns     NNS     1       _       _       _       _       _       _       _       O
+3       b'at'   _       at      in      IN      1       _       _       _       _       _       _       _       O
+4       b'Iranian'      _       Iranian jj      JJ      1       _       _       _       _       _       _       _       O
+5       b'Uranium'      _       Uranium NP      NNP     1       _       _       _       _       _       _       _       S-Material
+6       b'Enrichment'   _       Enrichment      nn      NNP     1       _       _       _       _       _       enrichment.n    Processing_materials    O
+7       b'Site' _       Site    nn      NNP     1       _       _       _       _       _       _       _       O
+
+1       b'Work' _       Work    nn      NN      1       _       _       _       _       _       _       _       O
+2       b'Advances'     _       Advances        nns     NNS     1       _       _       _       _       _       _       _       O
+3       b'at'   _       at      in      IN      1       _       _       _       _       _       _       _       O
+4       b'Iranian'      _       Iranian jj      JJ      1       _       _       _       _       _       _       _       S-Container_possessor
+5       b'Uranium'      _       Uranium NP      NNP     1       _       _       _       _       _       _       _       B-Use
+6       b'Enrichment'   _       Enrichment      nn      NNP     1       _       _       _       _       _       _       _       I-Use
+7       b'Site' _       Site    nn      NNP     1       _       _       _       _       _       site.n  Locale_by_use   S-Locale
